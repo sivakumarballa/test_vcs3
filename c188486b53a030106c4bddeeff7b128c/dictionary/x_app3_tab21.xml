@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Tab1" max_length="40" name="x_app3_tab21" sizeclass="0" type="collection">
+        <element label="Field1" max_length="40" name="field1" type="string"/>
+        <element default="57af7aec73d423002728660c4cf6a71c" label="Field2" max_length="32" name="field2" reference="incident" type="reference"/>
+        <element choice="1" label="Field3" max_length="40" name="field3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="op1" sequence="10" value="op1"/>
+                <element inactive_on_update="false" label="op2" sequence="20" value="op2"/>
+                <element inactive_on_update="false" label="op3" sequence="30" value="op3"/>
+            </choice>
+        </element>
+    </element>
+</database>

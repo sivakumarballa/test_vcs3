@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="field3" table="x_app3_tab21" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>field3</element>
+            <name>x_app3_tab21</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-14 12:43:38</sys_created_on>
+            <sys_id>353baf2c53b430106c4bddeeff7b121b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>field3</sys_name>
+            <sys_package display_value="App3" source="x_app3">c188486b53a030106c4bddeeff7b128c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App3">c188486b53a030106c4bddeeff7b128c</sys_scope>
+            <sys_update_name>sys_choice_x_app3_tab21_field3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-14 12:43:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>field3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>op1</label>
+            <language>en</language>
+            <name>x_app3_tab21</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-14 12:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f53baf2c53b430106c4bddeeff7b121a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-14 12:43:38</sys_updated_on>
+            <value>op1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>field3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>op2</label>
+            <language>en</language>
+            <name>x_app3_tab21</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-14 12:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>793b67ec53b430106c4bddeeff7b1240</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-14 12:43:38</sys_updated_on>
+            <value>op2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>field3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>op3</label>
+            <language>en</language>
+            <name>x_app3_tab21</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-14 12:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f13b67ec53b430106c4bddeeff7b1249</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-14 12:43:38</sys_updated_on>
+            <value>op3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

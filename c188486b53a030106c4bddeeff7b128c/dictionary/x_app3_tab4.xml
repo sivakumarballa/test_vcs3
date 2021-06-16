@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_app3_tab2" label="Tab4" max_length="40" name="x_app3_tab4" sizeclass="0" type="collection"/>
+</database>
