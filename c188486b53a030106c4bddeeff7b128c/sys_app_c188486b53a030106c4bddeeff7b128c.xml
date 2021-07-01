@@ -38,6 +38,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.x</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>
