@@ -4,5 +4,6 @@
         <element label="Field12" max_length="40" name="field12" type="string"/>
         <element label="Field13" max_length="40" name="field13" type="string"/>
         <element label="Field14" max_length="40" name="field14" type="string"/>
+        <element label="Field17" max_length="255" name="field17" type="string_full_utf8"/>
     </element>
 </database>
