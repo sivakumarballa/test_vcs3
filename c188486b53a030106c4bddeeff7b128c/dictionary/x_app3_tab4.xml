@@ -6,6 +6,6 @@
         <element label="Field14" max_length="40" name="field14" type="string"/>
         <element label="Field17" max_length="255" name="field17" type="string_full_utf8"/>
         <element label="Field18" max_length="40" name="field18" type="string"/>
-        <element label="Field19" max_length="40" name="field19" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return 'right';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Field19 - 2" max_length="40" name="field19" type="string"/>
     </element>
 </database>
