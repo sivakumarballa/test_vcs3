@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="x_app3_tab2" label="Tab4" max_length="40" name="x_app3_tab4" sizeclass="0" type="collection">
-        <element label="Field11" max_length="40" name="field11" type="string"/>
-        <element label="Field12" max_length="40" name="field12" type="string"/>
-        <element label="Field13" max_length="40" name="field13" type="string"/>
-        <element label="Field14" max_length="40" name="field14" type="string"/>
-        <element label="Field17" max_length="255" name="field17" type="string_full_utf8"/>
-        <element label="Field18" max_length="40" name="field18" type="string"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return 'right';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Field19 - 2" max_length="40" name="field19" type="string"/>
+        <element label="Field11-2" max_length="40" name="field11" type="string"/>
+        <element label="Field12-2" max_length="40" name="field12" type="string"/>
+        <element label="Field13-2" max_length="40" name="field13" type="string"/>
+        <element label="Field14-1" max_length="40" name="field14" type="string"/>
+        <element label="Field17 -1" max_length="255" name="field17" type="string_full_utf8"/>
+        <element label="Field18 -1" max_length="40" name="field18" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return 'right';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Field19 - 1" max_length="40" name="field19" type="string"/>
+        <element default="a9e9c33dc61122760072455df62663d2" label="Field21" max_length="32" name="field21" reference="task" type="reference"/>
+        <index name="index">
+            <element name="field21"/>
+        </index>
     </element>
 </database>
